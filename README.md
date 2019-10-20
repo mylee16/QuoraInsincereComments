@@ -1,4 +1,5 @@
-# nlp-detecting-insincere-comment
+# Natural Language Processing
+# Detecting Insincere Comments on Quora
 
 Introduction<br>
 One of the greatest challenges existing in Natural Language Processing today is the understanding of intentions, to try to understand what the author is trying to achieve through the statement. Intentions could be pure such as asking a genuine question, or malicious such as trying to mislead, to confuse, or to aggravate readers. 
