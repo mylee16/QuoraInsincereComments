@@ -20,11 +20,11 @@ In this repository, you will find:
 5. Error Analysis (https://github.com/mylee16/nlp-detecting-insincere-comment/blob/master/Error%20Analysis.ipynb)
 
 Group Members:
-Mengyong Lee
-Aeiyuni Husna
-Zhu Wanyi
-Yipeng Neo
-David Chong
+Mengyong Lee<br>
+Aeiyuni Husna<br>
+Zhu Wanyi<br>
+Yipeng Neo<br>
+David Chong<br><br>
 Professor Wang Zhaoxia
-
+<br>
 For the Module CS 605 - Natural Language Processing, SMU Master of IT in Business Program, Artificial Intelligence Track
