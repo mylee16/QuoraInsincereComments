@@ -6,11 +6,11 @@ One of the greatest challenges existing in Natural Language Processing today is 
 https://www.kaggle.com/c/quora-insincere-questions-classification
 
 Results (F1-Score) <br>
-Benchmark - Kaggle Winning Team: 0.71323
-Light GBM - 0.614
-ULMFit - 0.684
-BERT - 0.711
-Emsemble (Light GBM, ULMFit, BERT) - 0.718
+Benchmark - Kaggle Winning Team: 0.71323<br>
+Light GBM - 0.614<br>
+ULMFit - 0.684<br>
+BERT - 0.711<br>
+Emsemble (Light GBM, ULMFit, BERT) - 0.718<br>
 
 In this repository, you will find:
 1. Exploratory Data Analysis of the dataset(https://github.com/mylee16/nlp-detecting-insincere-comment/blob/master/quora-eda-v3.ipynb)
