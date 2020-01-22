@@ -19,7 +19,7 @@ In this repository, you will find:
 4. BERT (https://github.com/mylee16/nlp-detecting-insincere-comment/blob/master/bert-fastai-v3.ipynb)
 5. Error Analysis (https://github.com/mylee16/nlp-detecting-insincere-comment/blob/master/Error%20Analysis.ipynb)
 
-Group Members:
+Group Members:<br>
 Mengyong Lee<br>
 Aeiyuni Husna<br>
 Zhu Wanyi<br>
