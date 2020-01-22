@@ -3,8 +3,31 @@
 
 Introduction<br>
 One of the greatest challenges existing in Natural Language Processing today is the understanding of intentions, to try to understand what the author is trying to achieve through the statement. Intentions could be pure such as asking a genuine question, or malicious such as trying to mislead, to confuse, or to aggravate readers. 
-This report is produced in line with the Kaggle challenge called ‘Quora Insincere Question Classification’ [1]. Quora is a question-and-answer platform that allows users to ask and answer questions to share knowledge and insights. With over 200 million monthly active users [2], Quora strives to make the platform a safe place to share and exchange information. Like other social media sites, one of the key challenges for Quora is to identify insincere questions which essentially founded upon false premises with no intention of looking for helpful answer. Currently, the platform relies on manual effort to identify such questions and content. To help with the issue, our team developed classification models which can allow Quora to detect insincere questions automatically. The team also analysed the characteristics of insincere questions to derive insights that can potentially be applied in other similar areas.<br>
 
-Motivation<br>
-As a knowledge sharing platform that aims to empower users to learn from each other, the main challenge faced by Quora is to sieve out questions that have no intention of seeking fruitful discussion or genuine answers. There insincere questions tend to be malicious, toxic and misleading, which is contrary to Quora’s policy of ‘Be Nice, Be Respectful’. In order to continue to be a safe platform for users to share and grow their knowledge, it is crucial for Quora to develop scalable solutions which can detect toxic content and insincere questions effectively. Such solution helps to prevent trolls from propagating misinformation with malicious intention.
+https://www.kaggle.com/c/quora-insincere-questions-classification
 
+This report is produced in line with the Kaggle challenge called ‘Quora Insincere Question Classification’.
+
+Results (F1-Score) <br>
+Benchmark - Kaggle Winning Team: 0.71323
+Light GBM - 0.614
+ULMFit - 0.684
+BERT - 0.711
+Emsemble (Light GBM, ULMFit, BERT) - 0.718
+
+In this repository, you will find:
+1. Exploratory Data Analysis of the dataset(https://github.com/mylee16/nlp-detecting-insincere-comment/blob/master/quora-eda-v3.ipynb)
+2. Light GBMg (https://github.com/mylee16/nlp-detecting-insincere-comment/blob/master/quora-insincere-question-with-lightgbm.ipynb)
+3. ULMFit (https://github.com/mylee16/nlp-detecting-insincere-comment/blob/master/ulmfit.ipynb)
+4. BERT (https://github.com/mylee16/nlp-detecting-insincere-comment/blob/master/bert-fastai-v3.ipynb)
+5. Error Analysis (https://github.com/mylee16/nlp-detecting-insincere-comment/blob/master/Error%20Analysis.ipynb)
+
+Group Members:
+Mengyong Lee
+Aeiyuni Husna
+Zhu Wanyi
+Yipeng Neo
+David Chong
+Professor Wang Zhaoxia
+
+For the Module CS 605 - Natural Language Processing, SMU Master of IT in Business Program, Artificial Intelligence Track
