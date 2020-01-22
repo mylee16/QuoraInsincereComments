@@ -6,8 +6,6 @@ One of the greatest challenges existing in Natural Language Processing today is 
 
 https://www.kaggle.com/c/quora-insincere-questions-classification
 
-This report is produced in line with the Kaggle challenge called ‘Quora Insincere Question Classification’.
-
 Results (F1-Score) <br>
 Benchmark - Kaggle Winning Team: 0.71323
 Light GBM - 0.614
