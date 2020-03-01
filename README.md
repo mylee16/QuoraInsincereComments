@@ -1,6 +1,6 @@
 ## Detecting Insincere Comments on Quora
 
-https://github.com/mylee16/QuoraInsincereComments/blob/master/quora%20image.JPG
+![quora image](https://user-images.githubusercontent.com/34482689/75628132-184b2a00-5c11-11ea-8bcf-212df0c04a78.JPG)
 
 Introduction<br>
 One of the greatest challenges existing in Natural Language Processing today is the understanding of intentions, to try to understand what the author is trying to achieve through the statement. Intentions could be pure such as asking a genuine question, or malicious such as trying to mislead, to confuse, or to aggravate readers. 
